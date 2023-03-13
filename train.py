@@ -162,7 +162,7 @@ if __name__ == "__main__":
     # Config section ------
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        "--epochs", type=int, default=400, help="(Optional) Num epochs, defaults to 400"
+        "--epochs", type=int, default=600, help="(Optional) Num epochs, defaults to 400"
     )
     parser.add_argument(
         "--batch-size",
