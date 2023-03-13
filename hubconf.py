@@ -2,7 +2,7 @@ import numpy as np
 import torch
 
 dependencies = ["torch", "numpy"]
-default_ckpt_url = "https://www.dropbox.com/s/j8ida1d86hy5tm4/waternet_exported_state_dict-daa0ee.pt?dl=1"
+default_ckpt_url = "https://www.dropbox.com/s/f5o8z3y6bjcpakl/last.pt?dl=0"
 
 
 def arr2ten_noeinops(arr):
